@@ -1,2 +1,2 @@
-# geo-location
-Geolocation app for Doctors and Patients in sub-saharan Africa
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
